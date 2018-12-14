@@ -11,7 +11,7 @@ import java.util.regex.Pattern;
 Write a java program to validate the url?
 	Input : Url
 	Output: true/false
-	Note : Url is valis if it starts with either of the following
+	Note : Url is valid if it starts with either of the following
 		http:// [OR]
 		http://www.	[OR]
 		https:// [OR]
